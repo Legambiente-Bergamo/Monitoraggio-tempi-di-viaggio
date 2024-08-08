@@ -8,7 +8,7 @@ variano nel corso della giornata: questo comporta che il percorso seguito non si
 ma consente di valutare gli effetti della congestione sulle prestazioni della rete stradale.
 
 I campi del file di riepilogo sono i seguenti:
- - "Percorso": nome del percorso compelto;
+ - "Percorso": nome del percorso completo;
  - "Tratta": nome della parte di percorso:
  - "Direzione": 0 se la direzione è quella indicata nel nome della tratta, 1 se è il ritorno;
  - "Distanza_m": lunghezza del percorso in metri;
