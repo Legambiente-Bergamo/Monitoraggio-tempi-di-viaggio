@@ -979,3 +979,399 @@
 977,Treviglio - Bergamo,Treviglio - Verdello,1,14306,17.833333333333332,18.566666666666666,10-08-2024,22:00:03
 978,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.45,8.1,10-08-2024,22:00:03
 979,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.533333333333333,7.966666666666667,10-08-2024,22:00:04
+980,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,2.683333333333333,3.3833333333333333,11-08-2024,07:00:02
+981,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,2.8,3.5,11-08-2024,07:00:02
+982,Casirate - Bergamo,Casirate - Treviglio,0,7414,7.683333333333334,9.033333333333333,11-08-2024,07:00:03
+983,Casirate - Bergamo,Casirate - Treviglio,1,8944,9.95,11.433333333333334,11-08-2024,07:00:03
+984,Casirate - Bergamo,Dalmine - Bergamo,0,6481,9.95,14.033333333333333,11-08-2024,07:00:03
+985,Casirate - Bergamo,Dalmine - Bergamo,1,6450,9.716666666666667,13.75,11-08-2024,07:00:03
+986,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,5.333333333333333,7.033333333333333,11-08-2024,07:00:03
+987,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.35,6.616666666666666,11-08-2024,07:00:03
+988,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,5.916666666666667,7.533333333333333,11-08-2024,07:00:03
+989,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,5.966666666666667,7.4,11-08-2024,07:00:03
+990,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.366666666666666,5.766666666666667,11-08-2024,07:00:03
+991,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.583333333333333,5.95,11-08-2024,07:00:03
+992,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,3.2,4.6,11-08-2024,07:00:03
+993,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,3.3333333333333335,4.366666666666666,11-08-2024,07:00:03
+994,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,31.133333333333333,33.6,11-08-2024,07:00:03
+995,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,31.516666666666666,34.016666666666666,11-08-2024,07:00:03
+996,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,8.783333333333333,11.916666666666666,11-08-2024,07:00:03
+997,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,8.65,11.883333333333333,11-08-2024,07:00:03
+998,Treviglio - Bergamo,Treviglio - Verdello,0,14073,15.566666666666666,18.233333333333334,11-08-2024,07:00:03
+999,Treviglio - Bergamo,Treviglio - Verdello,1,14306,15.816666666666666,18.566666666666666,11-08-2024,07:00:03
+1000,Treviglio - Bergamo,Verdello - Stezzano,0,6164,6.983333333333333,8.1,11-08-2024,07:00:03
+1001,Treviglio - Bergamo,Verdello - Stezzano,1,6280,6.95,7.966666666666667,11-08-2024,07:00:04
+1002,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,2.8666666666666667,3.3833333333333333,11-08-2024,07:30:02
+1003,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,2.9,3.5,11-08-2024,07:30:02
+1004,Casirate - Bergamo,Casirate - Treviglio,0,7414,7.733333333333333,9.033333333333333,11-08-2024,07:30:02
+1005,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.016666666666667,11.433333333333334,11-08-2024,07:30:02
+1006,Casirate - Bergamo,Dalmine - Bergamo,0,6481,12.666666666666666,14.033333333333333,11-08-2024,07:30:02
+1007,Casirate - Bergamo,Dalmine - Bergamo,1,6450,9.716666666666667,13.75,11-08-2024,07:30:02
+1008,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,5.5,7.033333333333333,11-08-2024,07:30:03
+1009,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.166666666666667,6.616666666666666,11-08-2024,07:30:03
+1010,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.116666666666666,7.533333333333333,11-08-2024,07:30:03
+1011,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,5.966666666666667,7.4,11-08-2024,07:30:03
+1012,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.666666666666667,5.766666666666667,11-08-2024,07:30:03
+1013,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.483333333333333,5.95,11-08-2024,07:30:03
+1014,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,3.466666666666667,4.6,11-08-2024,07:30:03
+1015,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,3.533333333333333,4.366666666666666,11-08-2024,07:30:03
+1016,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,31.75,33.6,11-08-2024,07:30:03
+1017,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,31.566666666666666,34.016666666666666,11-08-2024,07:30:03
+1018,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,9.0,11.916666666666666,11-08-2024,07:30:03
+1019,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,9.0,11.883333333333333,11-08-2024,07:30:03
+1020,Treviglio - Bergamo,Treviglio - Verdello,0,14073,15.866666666666667,18.233333333333334,11-08-2024,07:30:03
+1021,Treviglio - Bergamo,Treviglio - Verdello,1,14306,15.983333333333333,18.566666666666666,11-08-2024,07:30:03
+1022,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.1,8.1,11-08-2024,07:30:03
+1023,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.066666666666666,7.966666666666667,11-08-2024,07:30:03
+1024,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,2.8,3.3833333333333333,11-08-2024,08:00:02
+1025,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.0166666666666666,3.5,11-08-2024,08:00:02
+1026,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.2,9.033333333333333,11-08-2024,08:00:02
+1027,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.133333333333333,11.433333333333334,11-08-2024,08:00:02
+1028,Casirate - Bergamo,Dalmine - Bergamo,0,6481,10.816666666666666,14.033333333333333,11-08-2024,08:00:02
+1029,Casirate - Bergamo,Dalmine - Bergamo,1,6450,9.966666666666667,13.75,11-08-2024,08:00:03
+1030,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,5.416666666666667,7.033333333333333,11-08-2024,08:00:03
+1031,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.25,6.616666666666666,11-08-2024,08:00:03
+1032,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.3,7.533333333333333,11-08-2024,08:00:03
+1033,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,5.883333333333334,7.4,11-08-2024,08:00:03
+1034,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.766666666666667,5.766666666666667,11-08-2024,08:00:03
+1035,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.6,5.95,11-08-2024,08:00:03
+1036,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,3.55,4.6,11-08-2024,08:00:03
+1037,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,4.05,4.366666666666666,11-08-2024,08:00:03
+1038,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,33.0,33.6,11-08-2024,08:00:03
+1039,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,31.916666666666668,34.016666666666666,11-08-2024,08:00:03
+1040,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,8.933333333333334,11.916666666666666,11-08-2024,08:00:03
+1041,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,10.966666666666667,11.883333333333333,11-08-2024,08:00:03
+1042,Treviglio - Bergamo,Treviglio - Verdello,0,14073,16.15,18.233333333333334,11-08-2024,08:00:03
+1043,Treviglio - Bergamo,Treviglio - Verdello,1,14306,16.316666666666666,18.566666666666666,11-08-2024,08:00:03
+1044,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.066666666666666,8.1,11-08-2024,08:00:03
+1045,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.15,7.966666666666667,11-08-2024,08:00:03
+1046,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,3.0166666666666666,3.3833333333333333,11-08-2024,08:30:02
+1047,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.0166666666666666,3.5,11-08-2024,08:30:02
+1048,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.916666666666666,9.033333333333333,11-08-2024,08:30:02
+1049,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.433333333333334,11.433333333333334,11-08-2024,08:30:02
+1050,Casirate - Bergamo,Dalmine - Bergamo,0,6481,11.616666666666667,14.033333333333333,11-08-2024,08:30:02
+1051,Casirate - Bergamo,Dalmine - Bergamo,1,6450,10.233333333333333,13.75,11-08-2024,08:30:02
+1052,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,5.6,7.033333333333333,11-08-2024,08:30:02
+1053,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.25,6.616666666666666,11-08-2024,08:30:02
+1054,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.433333333333334,7.533333333333333,11-08-2024,08:30:02
+1055,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.016666666666667,7.4,11-08-2024,08:30:03
+1056,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.533333333333333,5.766666666666667,11-08-2024,08:30:03
+1057,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.7,5.95,11-08-2024,08:30:03
+1058,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,4.566666666666666,4.6,11-08-2024,08:30:03
+1059,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,3.683333333333333,4.366666666666666,11-08-2024,08:30:03
+1060,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,34.46666666666667,33.6,11-08-2024,08:30:03
+1061,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,31.95,34.016666666666666,11-08-2024,08:30:03
+1062,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,10.066666666666666,11.916666666666666,11-08-2024,08:30:03
+1063,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,10.15,11.883333333333333,11-08-2024,08:30:03
+1064,Treviglio - Bergamo,Treviglio - Verdello,0,14073,16.633333333333333,18.233333333333334,11-08-2024,08:30:03
+1065,Treviglio - Bergamo,Treviglio - Verdello,1,14306,16.783333333333335,18.566666666666666,11-08-2024,08:30:03
+1066,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.266666666666667,8.1,11-08-2024,08:30:03
+1067,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.183333333333334,7.966666666666667,11-08-2024,08:30:03
+1068,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,3.033333333333333,3.3833333333333333,11-08-2024,09:00:03
+1069,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.25,3.5,11-08-2024,09:00:03
+1070,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.8,9.033333333333333,11-08-2024,09:00:03
+1071,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.8,11.433333333333334,11-08-2024,09:00:03
+1072,Casirate - Bergamo,Dalmine - Bergamo,0,6481,10.8,14.033333333333333,11-08-2024,09:00:03
+1073,Casirate - Bergamo,Dalmine - Bergamo,1,6450,11.516666666666667,13.75,11-08-2024,09:00:03
+1074,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,5.633333333333334,7.033333333333333,11-08-2024,09:00:03
+1075,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.483333333333333,6.616666666666666,11-08-2024,09:00:03
+1076,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.75,7.533333333333333,11-08-2024,09:00:03
+1077,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.433333333333334,7.4,11-08-2024,09:00:03
+1078,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.666666666666667,5.766666666666667,11-08-2024,09:00:03
+1079,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.716666666666667,5.95,11-08-2024,09:00:03
+1080,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,3.683333333333333,4.6,11-08-2024,09:00:03
+1081,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,4.016666666666667,4.366666666666666,11-08-2024,09:00:03
+1082,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,33.733333333333334,33.6,11-08-2024,09:00:03
+1083,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,31.933333333333334,34.016666666666666,11-08-2024,09:00:03
+1084,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,9.883333333333333,11.916666666666666,11-08-2024,09:00:03
+1085,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,9.683333333333334,11.883333333333333,11-08-2024,09:00:03
+1086,Treviglio - Bergamo,Treviglio - Verdello,0,14073,16.983333333333334,18.233333333333334,11-08-2024,09:00:03
+1087,Treviglio - Bergamo,Treviglio - Verdello,1,14306,17.183333333333334,18.566666666666666,11-08-2024,09:00:04
+1088,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.383333333333334,8.1,11-08-2024,09:00:04
+1089,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.283333333333333,7.966666666666667,11-08-2024,09:00:04
+1090,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,3.1666666666666665,3.3833333333333333,11-08-2024,11:00:03
+1091,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.283333333333333,3.5,11-08-2024,11:00:03
+1092,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.866666666666667,9.033333333333333,11-08-2024,11:00:03
+1093,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.966666666666667,11.433333333333334,11-08-2024,11:00:03
+1094,Casirate - Bergamo,Dalmine - Bergamo,0,6481,11.783333333333333,14.033333333333333,11-08-2024,11:00:03
+1095,Casirate - Bergamo,Dalmine - Bergamo,1,6450,11.433333333333334,13.75,11-08-2024,11:00:03
+1096,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,6.183333333333334,7.033333333333333,11-08-2024,11:00:03
+1097,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.9,6.616666666666666,11-08-2024,11:00:03
+1098,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.933333333333334,7.533333333333333,11-08-2024,11:00:03
+1099,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.816666666666666,7.4,11-08-2024,11:00:03
+1100,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.616666666666666,5.766666666666667,11-08-2024,11:00:03
+1101,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.883333333333334,5.95,11-08-2024,11:00:03
+1102,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,4.416666666666667,4.6,11-08-2024,11:00:03
+1103,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,4.083333333333333,4.366666666666666,11-08-2024,11:00:03
+1104,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,35.65,33.6,11-08-2024,11:00:03
+1105,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,31.833333333333332,34.016666666666666,11-08-2024,11:00:03
+1106,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,11.55,11.916666666666666,11-08-2024,11:00:03
+1107,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,10.95,11.883333333333333,11-08-2024,11:00:03
+1108,Treviglio - Bergamo,Treviglio - Verdello,0,14073,17.333333333333332,18.233333333333334,11-08-2024,11:00:04
+1109,Treviglio - Bergamo,Treviglio - Verdello,1,14306,17.75,18.566666666666666,11-08-2024,11:00:04
+1110,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.366666666666666,8.1,11-08-2024,11:00:04
+1111,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.466666666666667,7.966666666666667,11-08-2024,11:00:04
+1112,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,3.1333333333333333,3.3833333333333333,11-08-2024,12:00:03
+1113,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.3,3.5,11-08-2024,12:00:03
+1114,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.916666666666666,9.033333333333333,11-08-2024,12:00:03
+1115,Casirate - Bergamo,Casirate - Treviglio,1,8944,11.316666666666666,11.433333333333334,11-08-2024,12:00:03
+1116,Casirate - Bergamo,Dalmine - Bergamo,0,6481,11.983333333333333,14.033333333333333,11-08-2024,12:00:03
+1117,Casirate - Bergamo,Dalmine - Bergamo,1,6450,11.516666666666667,13.75,11-08-2024,12:00:03
+1118,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,5.916666666666667,7.033333333333333,11-08-2024,12:00:03
+1119,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.783333333333333,6.616666666666666,11-08-2024,12:00:03
+1120,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.766666666666667,7.533333333333333,11-08-2024,12:00:03
+1121,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,7.1,7.4,11-08-2024,12:00:03
+1122,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.416666666666667,5.766666666666667,11-08-2024,12:00:03
+1123,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.916666666666667,5.95,11-08-2024,12:00:03
+1124,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,4.616666666666666,4.6,11-08-2024,12:00:03
+1125,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,3.966666666666667,4.366666666666666,11-08-2024,12:00:03
+1126,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,34.36666666666667,33.6,11-08-2024,12:00:03
+1127,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,31.766666666666666,34.016666666666666,11-08-2024,12:00:03
+1128,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,10.7,11.916666666666666,11-08-2024,12:00:03
+1129,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,10.066666666666666,11.883333333333333,11-08-2024,12:00:03
+1130,Treviglio - Bergamo,Treviglio - Verdello,0,14073,16.683333333333334,18.233333333333334,11-08-2024,12:00:03
+1131,Treviglio - Bergamo,Treviglio - Verdello,1,14306,17.616666666666667,18.566666666666666,11-08-2024,12:00:04
+1132,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.366666666666666,8.1,11-08-2024,12:00:04
+1133,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.25,7.966666666666667,11-08-2024,12:00:04
+1134,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,2.8833333333333333,3.3833333333333333,11-08-2024,13:00:02
+1135,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.0166666666666666,3.5,11-08-2024,13:00:03
+1136,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.533333333333333,9.033333333333333,11-08-2024,13:00:03
+1137,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.833333333333334,11.433333333333334,11-08-2024,13:00:03
+1138,Casirate - Bergamo,Dalmine - Bergamo,0,6481,10.95,14.033333333333333,11-08-2024,13:00:03
+1139,Casirate - Bergamo,Dalmine - Bergamo,1,6450,11.033333333333333,13.75,11-08-2024,13:00:03
+1140,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,5.7,7.033333333333333,11-08-2024,13:00:03
+1141,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.516666666666667,6.616666666666666,11-08-2024,13:00:03
+1142,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.283333333333333,7.533333333333333,11-08-2024,13:00:03
+1143,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.366666666666666,7.4,11-08-2024,13:00:03
+1144,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.35,5.766666666666667,11-08-2024,13:00:03
+1145,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.633333333333334,5.95,11-08-2024,13:00:03
+1146,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,3.933333333333333,4.6,11-08-2024,13:00:03
+1147,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,4.066666666666666,4.366666666666666,11-08-2024,13:00:03
+1148,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,34.03333333333333,33.6,11-08-2024,13:00:03
+1149,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,31.533333333333335,34.016666666666666,11-08-2024,13:00:03
+1150,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,9.833333333333334,11.916666666666666,11-08-2024,13:00:03
+1151,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,9.733333333333333,11.883333333333333,11-08-2024,13:00:03
+1152,Treviglio - Bergamo,Treviglio - Verdello,0,14073,16.3,18.233333333333334,11-08-2024,13:00:03
+1153,Treviglio - Bergamo,Treviglio - Verdello,1,14306,16.733333333333334,18.566666666666666,11-08-2024,13:00:04
+1154,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.116666666666666,8.1,11-08-2024,13:00:04
+1155,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.15,7.966666666666667,11-08-2024,13:00:04
+1156,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,2.8666666666666667,3.3833333333333333,11-08-2024,14:00:02
+1157,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,2.933333333333333,3.5,11-08-2024,14:00:03
+1158,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.233333333333333,9.033333333333333,11-08-2024,14:00:03
+1159,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.75,11.433333333333334,11-08-2024,14:00:03
+1160,Casirate - Bergamo,Dalmine - Bergamo,0,6481,11.25,14.033333333333333,11-08-2024,14:00:03
+1161,Casirate - Bergamo,Dalmine - Bergamo,1,6450,11.0,13.75,11-08-2024,14:00:03
+1162,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,5.75,7.033333333333333,11-08-2024,14:00:03
+1163,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.45,6.616666666666666,11-08-2024,14:00:03
+1164,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.233333333333333,7.533333333333333,11-08-2024,14:00:03
+1165,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.65,7.4,11-08-2024,14:00:03
+1166,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.416666666666667,5.766666666666667,11-08-2024,14:00:03
+1167,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.55,5.95,11-08-2024,14:00:03
+1168,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,3.783333333333333,4.6,11-08-2024,14:00:03
+1169,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,3.9166666666666665,4.366666666666666,11-08-2024,14:00:03
+1170,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,33.71666666666667,33.6,11-08-2024,14:00:03
+1171,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,32.25,34.016666666666666,11-08-2024,14:00:03
+1172,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,9.683333333333334,11.916666666666666,11-08-2024,14:00:03
+1173,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,9.933333333333334,11.883333333333333,11-08-2024,14:00:03
+1174,Treviglio - Bergamo,Treviglio - Verdello,0,14073,16.433333333333334,18.233333333333334,11-08-2024,14:00:04
+1175,Treviglio - Bergamo,Treviglio - Verdello,1,14306,16.633333333333333,18.566666666666666,11-08-2024,14:00:04
+1176,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.116666666666666,8.1,11-08-2024,14:00:04
+1177,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.25,7.966666666666667,11-08-2024,14:00:04
+1178,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,3.033333333333333,3.3833333333333333,11-08-2024,16:00:03
+1179,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.066666666666667,3.5,11-08-2024,16:00:03
+1180,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.716666666666667,9.033333333333333,11-08-2024,16:00:03
+1181,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.55,11.433333333333334,11-08-2024,16:00:03
+1182,Casirate - Bergamo,Dalmine - Bergamo,0,6481,11.166666666666666,14.033333333333333,11-08-2024,16:00:03
+1183,Casirate - Bergamo,Dalmine - Bergamo,1,6450,11.6,13.75,11-08-2024,16:00:03
+1184,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,5.983333333333333,7.033333333333333,11-08-2024,16:00:03
+1185,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.8,6.616666666666666,11-08-2024,16:00:03
+1186,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.566666666666666,7.533333333333333,11-08-2024,16:00:03
+1187,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.266666666666667,7.4,11-08-2024,16:00:03
+1188,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.4,5.766666666666667,11-08-2024,16:00:03
+1189,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.733333333333333,5.95,11-08-2024,16:00:03
+1190,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,4.233333333333333,4.6,11-08-2024,16:00:03
+1191,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,4.033333333333333,4.366666666666666,11-08-2024,16:00:03
+1192,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,32.85,33.6,11-08-2024,16:00:03
+1193,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,32.4,34.016666666666666,11-08-2024,16:00:03
+1194,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,10.0,11.916666666666666,11-08-2024,16:00:03
+1195,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,10.05,11.883333333333333,11-08-2024,16:00:03
+1196,Treviglio - Bergamo,Treviglio - Verdello,0,14073,16.333333333333332,18.233333333333334,11-08-2024,16:00:04
+1197,Treviglio - Bergamo,Treviglio - Verdello,1,14306,16.916666666666668,18.566666666666666,11-08-2024,16:00:04
+1198,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.316666666666666,8.1,11-08-2024,16:00:04
+1199,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.233333333333333,7.966666666666667,11-08-2024,16:00:04
+1200,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,3.05,3.3833333333333333,11-08-2024,16:30:02
+1201,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.1,3.5,11-08-2024,16:30:02
+1202,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.616666666666667,9.033333333333333,11-08-2024,16:30:03
+1203,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.583333333333334,11.433333333333334,11-08-2024,16:30:03
+1204,Casirate - Bergamo,Dalmine - Bergamo,0,6481,11.233333333333333,14.033333333333333,11-08-2024,16:30:03
+1205,Casirate - Bergamo,Dalmine - Bergamo,1,6450,11.666666666666666,13.75,11-08-2024,16:30:03
+1206,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,5.9,7.033333333333333,11-08-2024,16:30:03
+1207,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.7,6.616666666666666,11-08-2024,16:30:03
+1208,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.266666666666667,7.533333333333333,11-08-2024,16:30:03
+1209,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.533333333333333,7.4,11-08-2024,16:30:03
+1210,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.433333333333334,5.766666666666667,11-08-2024,16:30:03
+1211,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.9,5.95,11-08-2024,16:30:03
+1212,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,3.8666666666666667,4.6,11-08-2024,16:30:03
+1213,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,4.166666666666667,4.366666666666666,11-08-2024,16:30:03
+1214,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,32.833333333333336,33.6,11-08-2024,16:30:03
+1215,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,32.233333333333334,34.016666666666666,11-08-2024,16:30:03
+1216,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,9.85,11.916666666666666,11-08-2024,16:30:03
+1217,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,10.433333333333334,11.883333333333333,11-08-2024,16:30:03
+1218,Treviglio - Bergamo,Treviglio - Verdello,0,14073,16.716666666666665,18.233333333333334,11-08-2024,16:30:03
+1219,Treviglio - Bergamo,Treviglio - Verdello,1,14306,16.966666666666665,18.566666666666666,11-08-2024,16:30:03
+1220,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.233333333333333,8.1,11-08-2024,16:30:03
+1221,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.583333333333333,7.966666666666667,11-08-2024,16:30:03
+1222,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,3.05,3.3833333333333333,11-08-2024,17:00:02
+1223,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.15,3.5,11-08-2024,17:00:02
+1224,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.766666666666667,9.033333333333333,11-08-2024,17:00:02
+1225,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.683333333333334,11.433333333333334,11-08-2024,17:00:02
+1226,Casirate - Bergamo,Dalmine - Bergamo,0,6481,11.366666666666667,14.033333333333333,11-08-2024,17:00:02
+1227,Casirate - Bergamo,Dalmine - Bergamo,1,6450,11.833333333333334,13.75,11-08-2024,17:00:02
+1228,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,5.966666666666667,7.033333333333333,11-08-2024,17:00:03
+1229,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.866666666666666,6.616666666666666,11-08-2024,17:00:03
+1230,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.433333333333334,7.533333333333333,11-08-2024,17:00:03
+1231,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.733333333333333,7.4,11-08-2024,17:00:03
+1232,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.533333333333333,5.766666666666667,11-08-2024,17:00:03
+1233,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.75,5.95,11-08-2024,17:00:03
+1234,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,3.966666666666667,4.6,11-08-2024,17:00:03
+1235,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,4.166666666666667,4.366666666666666,11-08-2024,17:00:03
+1236,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,33.06666666666667,33.6,11-08-2024,17:00:03
+1237,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,32.266666666666666,34.016666666666666,11-08-2024,17:00:03
+1238,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,9.916666666666666,11.916666666666666,11-08-2024,17:00:03
+1239,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,10.333333333333334,11.883333333333333,11-08-2024,17:00:03
+1240,Treviglio - Bergamo,Treviglio - Verdello,0,14073,16.833333333333332,18.233333333333334,11-08-2024,17:00:03
+1241,Treviglio - Bergamo,Treviglio - Verdello,1,14306,17.283333333333335,18.566666666666666,11-08-2024,17:00:03
+1242,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.5,8.1,11-08-2024,17:00:03
+1243,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.383333333333334,7.966666666666667,11-08-2024,17:00:03
+1244,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,3.0,3.3833333333333333,11-08-2024,17:30:02
+1245,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.216666666666667,3.5,11-08-2024,17:30:02
+1246,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.833333333333334,9.033333333333333,11-08-2024,17:30:02
+1247,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.7,11.433333333333334,11-08-2024,17:30:02
+1248,Casirate - Bergamo,Dalmine - Bergamo,0,6481,11.55,14.033333333333333,11-08-2024,17:30:02
+1249,Casirate - Bergamo,Dalmine - Bergamo,1,6450,11.95,13.75,11-08-2024,17:30:02
+1250,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,6.116666666666666,7.033333333333333,11-08-2024,17:30:02
+1251,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.75,6.616666666666666,11-08-2024,17:30:02
+1252,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.7,7.533333333333333,11-08-2024,17:30:03
+1253,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.4,7.4,11-08-2024,17:30:03
+1254,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.6,5.766666666666667,11-08-2024,17:30:03
+1255,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.816666666666666,5.95,11-08-2024,17:30:03
+1256,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,4.183333333333334,4.6,11-08-2024,17:30:03
+1257,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,4.1,4.366666666666666,11-08-2024,17:30:03
+1258,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,32.983333333333334,33.6,11-08-2024,17:30:03
+1259,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,32.11666666666667,34.016666666666666,11-08-2024,17:30:03
+1260,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,10.316666666666666,11.916666666666666,11-08-2024,17:30:03
+1261,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,10.35,11.883333333333333,11-08-2024,17:30:03
+1262,Treviglio - Bergamo,Treviglio - Verdello,0,14073,17.033333333333335,18.233333333333334,11-08-2024,17:30:03
+1263,Treviglio - Bergamo,Treviglio - Verdello,1,14306,17.35,18.566666666666666,11-08-2024,17:30:03
+1264,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.45,8.1,11-08-2024,17:30:03
+1265,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.283333333333333,7.966666666666667,11-08-2024,17:30:03
+1266,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,3.1,3.3833333333333333,11-08-2024,18:00:02
+1267,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.216666666666667,3.5,11-08-2024,18:00:02
+1268,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.533333333333333,9.033333333333333,11-08-2024,18:00:02
+1269,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.8,11.433333333333334,11-08-2024,18:00:02
+1270,Casirate - Bergamo,Dalmine - Bergamo,0,6481,11.283333333333333,14.033333333333333,11-08-2024,18:00:02
+1271,Casirate - Bergamo,Dalmine - Bergamo,1,6450,11.766666666666667,13.75,11-08-2024,18:00:02
+1272,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,6.333333333333333,7.033333333333333,11-08-2024,18:00:02
+1273,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.95,6.616666666666666,11-08-2024,18:00:02
+1274,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.883333333333334,7.533333333333333,11-08-2024,18:00:02
+1275,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.933333333333334,7.4,11-08-2024,18:00:02
+1276,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.566666666666666,5.766666666666667,11-08-2024,18:00:03
+1277,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,6.0,5.95,11-08-2024,18:00:03
+1278,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,3.933333333333333,4.6,11-08-2024,18:00:03
+1279,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,4.133333333333334,4.366666666666666,11-08-2024,18:00:03
+1280,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,33.05,33.6,11-08-2024,18:00:03
+1281,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,32.1,34.016666666666666,11-08-2024,18:00:03
+1282,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,10.1,11.916666666666666,11-08-2024,18:00:03
+1283,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,10.083333333333334,11.883333333333333,11-08-2024,18:00:03
+1284,Treviglio - Bergamo,Treviglio - Verdello,0,14073,17.283333333333335,18.233333333333334,11-08-2024,18:00:03
+1285,Treviglio - Bergamo,Treviglio - Verdello,1,14306,17.083333333333332,18.566666666666666,11-08-2024,18:00:03
+1286,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.433333333333334,8.1,11-08-2024,18:00:03
+1287,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.4,7.966666666666667,11-08-2024,18:00:03
+1288,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,3.066666666666667,3.3833333333333333,11-08-2024,18:30:02
+1289,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.25,3.5,11-08-2024,18:30:02
+1290,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.366666666666667,9.033333333333333,11-08-2024,18:30:02
+1291,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.6,11.433333333333334,11-08-2024,18:30:02
+1292,Casirate - Bergamo,Dalmine - Bergamo,0,6481,11.9,14.033333333333333,11-08-2024,18:30:02
+1293,Casirate - Bergamo,Dalmine - Bergamo,1,6450,11.616666666666667,13.75,11-08-2024,18:30:02
+1294,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,6.3,7.033333333333333,11-08-2024,18:30:02
+1295,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.966666666666667,6.616666666666666,11-08-2024,18:30:02
+1296,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.65,7.533333333333333,11-08-2024,18:30:02
+1297,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.766666666666667,7.4,11-08-2024,18:30:02
+1298,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.533333333333333,5.766666666666667,11-08-2024,18:30:02
+1299,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.816666666666666,5.95,11-08-2024,18:30:02
+1300,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,4.016666666666667,4.6,11-08-2024,18:30:02
+1301,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,4.1,4.366666666666666,11-08-2024,18:30:02
+1302,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,33.13333333333333,33.6,11-08-2024,18:30:03
+1303,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,32.083333333333336,34.016666666666666,11-08-2024,18:30:03
+1304,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,10.366666666666667,11.916666666666666,11-08-2024,18:30:03
+1305,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,10.25,11.883333333333333,11-08-2024,18:30:03
+1306,Treviglio - Bergamo,Treviglio - Verdello,0,14073,17.016666666666666,18.233333333333334,11-08-2024,18:30:03
+1307,Treviglio - Bergamo,Treviglio - Verdello,1,14306,17.316666666666666,18.566666666666666,11-08-2024,18:30:03
+1308,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.533333333333333,8.1,11-08-2024,18:30:03
+1309,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.583333333333333,7.966666666666667,11-08-2024,18:30:03
+1310,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,3.2,3.3833333333333333,11-08-2024,19:00:02
+1311,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.3,3.5,11-08-2024,19:00:02
+1312,Casirate - Bergamo,Casirate - Treviglio,0,7414,9.583333333333334,9.033333333333333,11-08-2024,19:00:02
+1313,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.9,11.433333333333334,11-08-2024,19:00:02
+1314,Casirate - Bergamo,Dalmine - Bergamo,0,6481,11.816666666666666,14.033333333333333,11-08-2024,19:00:02
+1315,Casirate - Bergamo,Dalmine - Bergamo,1,6450,12.15,13.75,11-08-2024,19:00:02
+1316,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,6.3,7.033333333333333,11-08-2024,19:00:02
+1317,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,6.0,6.616666666666666,11-08-2024,19:00:02
+1318,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.6,7.533333333333333,11-08-2024,19:00:02
+1319,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.933333333333334,7.4,11-08-2024,19:00:02
+1320,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.583333333333333,5.766666666666667,11-08-2024,19:00:02
+1321,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.7,5.95,11-08-2024,19:00:02
+1322,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,3.95,4.6,11-08-2024,19:00:02
+1323,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,4.016666666666667,4.366666666666666,11-08-2024,19:00:02
+1324,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,34.96666666666667,33.6,11-08-2024,19:00:02
+1325,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,32.05,34.016666666666666,11-08-2024,19:00:02
+1326,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,10.533333333333333,11.916666666666666,11-08-2024,19:00:03
+1327,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,11.133333333333333,11.883333333333333,11-08-2024,19:00:03
+1328,Treviglio - Bergamo,Treviglio - Verdello,0,14073,16.933333333333334,18.233333333333334,11-08-2024,19:00:03
+1329,Treviglio - Bergamo,Treviglio - Verdello,1,14306,16.933333333333334,18.566666666666666,11-08-2024,19:00:03
+1330,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.533333333333333,8.1,11-08-2024,19:00:03
+1331,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.45,7.966666666666667,11-08-2024,19:00:03
+1332,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,2.966666666666667,3.3833333333333333,11-08-2024,20:00:03
+1333,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.1666666666666665,3.5,11-08-2024,20:00:03
+1334,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.716666666666667,9.033333333333333,11-08-2024,20:00:03
+1335,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.8,11.433333333333334,11-08-2024,20:00:03
+1336,Casirate - Bergamo,Dalmine - Bergamo,0,6481,12.266666666666667,14.033333333333333,11-08-2024,20:00:03
+1337,Casirate - Bergamo,Dalmine - Bergamo,1,6450,11.733333333333333,13.75,11-08-2024,20:00:03
+1338,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,5.833333333333333,7.033333333333333,11-08-2024,20:00:03
+1339,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,5.883333333333334,6.616666666666666,11-08-2024,20:00:03
+1340,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.7,7.533333333333333,11-08-2024,20:00:03
+1341,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.666666666666667,7.4,11-08-2024,20:00:03
+1342,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.6,5.766666666666667,11-08-2024,20:00:03
+1343,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.7,5.95,11-08-2024,20:00:03
+1344,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,4.15,4.6,11-08-2024,20:00:03
+1345,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,3.816666666666667,4.366666666666666,11-08-2024,20:00:03
+1346,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,32.666666666666664,33.6,11-08-2024,20:00:03
+1347,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,31.766666666666666,34.016666666666666,11-08-2024,20:00:03
+1348,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,10.283333333333333,11.916666666666666,11-08-2024,20:00:03
+1349,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,10.65,11.883333333333333,11-08-2024,20:00:03
+1350,Treviglio - Bergamo,Treviglio - Verdello,0,14073,17.283333333333335,18.233333333333334,11-08-2024,20:00:04
+1351,Treviglio - Bergamo,Treviglio - Verdello,1,14306,17.05,18.566666666666666,11-08-2024,20:00:04
+1352,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.35,8.1,11-08-2024,20:00:04
+1353,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.45,7.966666666666667,11-08-2024,20:00:04
+1354,Casirate - Bergamo,Boltiere - Osio Sotto,0,2098,3.0833333333333335,3.3833333333333333,11-08-2024,22:00:03
+1355,Casirate - Bergamo,Boltiere - Osio Sotto,1,2153,3.2333333333333334,3.5,11-08-2024,22:00:03
+1356,Casirate - Bergamo,Casirate - Treviglio,0,7414,8.483333333333333,9.033333333333333,11-08-2024,22:00:03
+1357,Casirate - Bergamo,Casirate - Treviglio,1,8944,10.766666666666667,11.433333333333334,11-08-2024,22:00:03
+1358,Casirate - Bergamo,Dalmine - Bergamo,0,6481,11.616666666666667,14.033333333333333,11-08-2024,22:00:03
+1359,Casirate - Bergamo,Dalmine - Bergamo,1,6450,11.5,13.75,11-08-2024,22:00:03
+1360,Casirate - Bergamo,Osio Sotto - Dalmine,0,3959,5.95,7.033333333333333,11-08-2024,22:00:03
+1361,Casirate - Bergamo,Osio Sotto - Dalmine,1,4023,6.133333333333334,6.616666666666666,11-08-2024,22:00:03
+1362,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,0,4654,6.55,7.533333333333333,11-08-2024,22:00:03
+1363,Casirate - Bergamo,Pontirolo Nuovo - Boltiere,1,4688,6.783333333333333,7.4,11-08-2024,22:00:03
+1364,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,0,5079,5.533333333333333,5.766666666666667,11-08-2024,22:00:03
+1365,Casirate - Bergamo,Treviglio - Pontirolo Nuovo,1,5127,5.683333333333334,5.95,11-08-2024,22:00:03
+1366,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,0,1676,3.783333333333333,4.6,11-08-2024,22:00:03
+1367,Casirate - Bergamo_HW,Bergamo via Autostrada - Bergamo,1,1623,3.683333333333333,4.366666666666666,11-08-2024,22:00:03
+1368,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,0,48526,32.833333333333336,33.6,11-08-2024,22:00:03
+1369,Casirate - Bergamo_HW,Casirate - Bergamo via Autostrada,1,50810,32.916666666666664,34.016666666666666,11-08-2024,22:00:03
+1370,Treviglio - Bergamo,Stezzano - Bergamo,0,4806,9.55,11.916666666666666,11-08-2024,22:00:04
+1371,Treviglio - Bergamo,Stezzano - Bergamo,1,4834,9.833333333333334,11.883333333333333,11-08-2024,22:00:04
+1372,Treviglio - Bergamo,Treviglio - Verdello,0,14073,16.933333333333334,18.233333333333334,11-08-2024,22:00:04
+1373,Treviglio - Bergamo,Treviglio - Verdello,1,14306,17.133333333333333,18.566666666666666,11-08-2024,22:00:04
+1374,Treviglio - Bergamo,Verdello - Stezzano,0,6164,7.333333333333333,8.1,11-08-2024,22:00:04
+1375,Treviglio - Bergamo,Verdello - Stezzano,1,6280,7.516666666666667,7.966666666666667,11-08-2024,22:00:04
